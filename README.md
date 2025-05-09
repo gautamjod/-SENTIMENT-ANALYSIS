@@ -103,3 +103,10 @@ Deep Learning Models: Implementing LSTM or BERT for better sentiment prediction.
 Improved Text Cleaning: Incorporating techniques like lemmatization or using spaCy for advanced NLP tasks.
 
 This project can be extended to include more complex datasets such as tweets or product reviews. It can also be deployed as a web-based sentiment analysis tool using frameworks like Flask or Streamlit.
+
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5d64d84d-4b87-40c3-83fd-a4d01a5ebb5c)
+
+![Image](https://github.com/user-attachments/assets/515cf1a9-913b-4822-b638-ac915d0a9416)
